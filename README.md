@@ -1,77 +1,45 @@
+# 🌦️ Weather Forecast Application
+
+A responsive weather application built using **Flask, SQLite, HTML, CSS, JavaScript, and Chart.js** that provides real-time weather information and forecast visualization.
 
 ---
 
-# 🚀 Projects Included
+## 🌐 Live Demo
 
-## 🌦️ Weather Forecast Application
-
-**Tech Stack:**
-
-- Python
-- Flask
-- SQLite
-- HTML
-- CSS
-- JavaScript
-- Chart.js
-
-### Features:
-
-- 🔐 User Authentication
-- 🌍 Weather Search
-- 📅 7-Day Forecast
-- 📊 Weather Data Visualization
+🚀 Weather App:
+(Add your Render deployment link)
 
 ---
 
-## 💻 Personal Portfolio Website
+## 📸 Project Preview
 
-**Tech Stack:**
-
-- HTML
-- CSS
-- JavaScript
-
-### Features:
-
-- 👤 Personal Introduction
-- 🧑‍💻 Skills Showcase
-- 🚀 Project Display
-- 📄 Resume Download
-- 📬 Contact Information
+(Add your weather app screenshots here)
 
 ---
 
-# 🎯 Purpose
+# 🛠️ Technologies Used
 
-This portfolio was created to:
-
-⭐ Showcase my frontend development skills  
-⭐ Display my projects and achievements  
-⭐ Build my professional online presence  
-
----
-
-# 👨‍💻 About Me
-
-🎓 B.Tech CSE - Artificial Intelligence & Data Science
-
-💡 Interested In:
-
-- Frontend Development
-- Full Stack Development
-- Data Structures & Algorithms
+| Technology | Purpose |
+|------------|---------|
+| Python | Backend Programming |
+| Flask | Web Framework |
+| SQLite | Database |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Interactive Features |
+| Chart.js | Weather Data Visualization |
 
 ---
 
-# 📫 Connect With Me
+# ✨ Features
 
-🐙 GitHub:  
-https://github.com/sainandhuresu
-
-💼 LinkedIn:  
-(Add your LinkedIn profile link)
+✅ User Registration & Login  
+✅ Weather Search by Location  
+✅ Current Weather Details  
+✅ 7-Day Weather Forecast  
+✅ Temperature Visualization using Charts  
+✅ Responsive User Interface  
 
 ---
 
-⭐ If you like this project, give it a star!
+# 📂 Project Structure
