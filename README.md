@@ -6,14 +6,19 @@ A responsive weather application built using **Flask, SQLite, HTML, CSS, JavaScr
 
 ## 🌐 Live Demo
 
-🚀 Weather App:
-(Add your Render deployment link)
+🚀 Weather App with User Authentication :-
+    https://weather-app-6ctp.onrender.com
+   
 
 ---
 
 ## 📸 Project Preview
 
-(Add your weather app screenshots here)
+<img width="1907" height="996" alt="Screenshot 2026-03-30 192540" src="https://github.com/user-attachments/assets/58456418-2b23-42c2-81b2-f00cdf117375" />
+
+<img width="1909" height="1072" alt="Screenshot 2026-03-30 192622" src="https://github.com/user-attachments/assets/b0a0814d-e4ae-42a3-b2a6-b2925159525a" />
+
+
 
 ---
 
